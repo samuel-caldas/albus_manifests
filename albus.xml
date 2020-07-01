@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Albus -->
+    <project name="samuel-caldas/android_device_motorola_albus_kvt" path="device/motorola/albus"    remote="github" />
+    <project name="samuel-caldas/proprietary_vendor_motorola" 			path="vendor/motorola/"         remote="github" />
+    <project name="samuel-caldas/kernel_motorola_msm8996_kvt" 			path="kernel/motorola/msm8996"  remote="github" />
+    <project name="LineageOS/android_system_qcom" 				          path="system/qcom"              remote="github" />
+    <project name="LineageOS/android_hardware_qcom_media"           path="hardware/qcom/media-caf/msm8937"    remote="github" />
+    <project name="LineageOS/android_hardware_qcom_display"         path="hardware/qcom/display-caf/msm8937"  remote="github" />
+    <project name="LineageOS/android_hardware_qcom_display"         path="hardware/qcom/audio-caf/msm8937"    remote="github" />
+<!--<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" /> -->
+</manifest>
